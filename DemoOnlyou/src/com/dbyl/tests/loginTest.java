@@ -18,6 +18,7 @@ public class loginTest extends UITest{
 	{
 		super.init(driver);
 		String init = "test";
+		String init2 = "test";
 		ViewHomePage.setDriver(driver);
 		//CommonLogin.setDriver(driver);
 	}
